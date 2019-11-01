@@ -4,7 +4,7 @@
 
 ### Installation
 
-Dillinger requires [Docker.js](https://www.docker.com/get-started) v2.1.4+ to run.
+Application requires [Docker](https://www.docker.com/get-started) v2.1.4+ to run.
 
 Build the image.
 
@@ -15,20 +15,22 @@ $ docker-compose build
 $ node app
 ```
 
-Run the Application
+### Application
 
+Start application
 ```sh
 $ docker-compose up -d
 
-
+```
 Stop the Application
-
 ```sh
 $ docker-compose stop
-```
-### Docker```
 
-Apllication run in port localhost:3001.
+````
+
+### Docker
+
+Apllication run in localhost:3001.
 
 ```sh
 127.0.0.1:3001
