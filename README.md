@@ -2,3 +2,6 @@ This project was developed by [Claudemir Mendes](https://github.com/claudemirmen
 
 ### `Requirements`
  * Docker in version 2.1.0.4
+ 
+### Run Application
+  *
